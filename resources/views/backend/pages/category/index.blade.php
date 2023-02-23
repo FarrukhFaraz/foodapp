@@ -98,7 +98,7 @@
                                         <th> <img id="image-display"
                                                 src="{{ asset('uploads/categories/'.$item->image)
                                                  }}"
-                                                style="margin-bottom: 10px" height="100px">{{ asset('uploads/categories/'.$item->image) }} </th>
+                                                style="margin-bottom: 10px" height="100px"></th>
                                         <th style="text-align: center">{{ $item->name }}</th>
                                         <th style="text-align: center;" colspan="2">
 

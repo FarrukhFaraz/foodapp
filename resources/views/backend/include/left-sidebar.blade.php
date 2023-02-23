@@ -4,10 +4,10 @@
 
             <div class="content-top">
                 <div class="logo">
-                    <a class="text">
+                    {{-- <a class="text">
                         <i class="fa fa-adjust"></i>
                         <span>Peak</span>
-                    </a>
+                    </a> --}}
                 </div>
                 <div class="left-sidebar-search">
                 </div>
